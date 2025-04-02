@@ -3,3 +3,60 @@
   font-weight: 500;
   font-size: 20px;
 }
+.main-margin{
+  margin-top: 150px;
+}
+.text-gap{
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 20px;
+}
+.top-img{
+  margin-bottom: 30px;
+}
+.body-bg{
+  background-color: #f3f1ff;
+
+}
+
+.padding-text{
+  padding: 20px;
+}
+.margin-text{
+  margin-left: 20px;
+}
+.blog-gap{
+  margin-top: 15px;
+  transition: transform 1s;
+}
+.blue-color{
+  color:#562EFF; 
+}
+.blog-gap:hover{
+  transform: translatey(-.5rem);
+}
+.player-section{
+  transition: transform 1s;
+}
+.player-section:hover{
+  transform: translatey(-.5rem);
+}
+.container{
+  border-radius: 10px;
+}
+
+.card{
+  border: none;
+  border-radius: 15px;
+
+  transition: transform 1s;
+}
+.card:hover{
+  transform:translateY(-0.5rem);
+
+}
+.tomado-bg{
+  background-color: #FFE4E8;
+  border-radius: 10px;
+  padding:1px 5px;
+}
